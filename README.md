@@ -9,4 +9,4 @@ for win11 I like to use start all back, becouse the fucking taskbar is atrocious
 
 and if you having someproblems disable the low latency mode on the nvidia control panel for somereason this thing make games laggier once in a while especially cs2. 
 
-for even better results you can use Atlas OS, Revi OS, or something that might have a virus like kernel os, spectre, xso or someshit like, that dont change nothing just cause more compatibility stress, download aimlab your problem is not latency is your brain.
+for even better results you can use Atlas OS, Revi OS, or something that might have a virus like kernel os, spectre, xso or someshit like, that dont change nothing just cause more compatibility stress, if you use that download aimlab your problem is not latency is your brain. (exercisse help alot) 
